@@ -2,6 +2,7 @@
 
 Contributors: sebd86 
 Tags: woocommerce, extension, sebs studio, products
+Donate link: http://www.sebs-studio.com/donation/
 Requires at least: 3.7.1 
 Tested up to: 3.8.1 
 Stable tag: trunk 
