@@ -34,7 +34,7 @@ Please consider making a [donation](http://www.sebastiendumont.com/donation/) or
 - Contact Sebastien on Twitter: [@sebsstudio](http://twitter.com/sebsstudio)
 - If you're a developer yourself, follow or contribute to the [WooCommerce Coming Soon plugin on GitHub](https://github.com/Sebs-Studio/WooCommerce-Coming-Soon)
 
-== FAQ ==
+== Frequently Asked Questions ==
 
 = Q1. Does it work for variable products too? =
 A1. Not yet but I am working on it.
@@ -46,7 +46,7 @@ A1. Not yet but I am working on it.
 
 == Changelog ==
 
-= 1.0.1 - 9th July 2015
+= 1.0.1 - 9th July 2015 =
 * NOTE: This update has been long overdue.
 * Fixed issue with the coming soon message.
 * Improved code structure.
